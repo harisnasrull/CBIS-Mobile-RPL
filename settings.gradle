@@ -1,0 +1,2 @@
+rootProject.name='CBIS Trial'
+include ':app'
